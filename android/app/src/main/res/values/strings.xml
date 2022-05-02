@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Instadating</string>
+    
+     <string name="fb_app_id">511213930565643</string>
+    <string name="fb_login_protocol_scheme">fb511213930565643</string>
+    <string name="facebook_client_token">558826e49ccac66a054cc81d1f831fef</string>
+</resources>

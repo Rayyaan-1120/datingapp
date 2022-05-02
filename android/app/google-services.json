@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "446216659923",
+    "project_id": "dating-6c7c0",
+    "storage_bucket": "dating-6c7c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446216659923:android:c66baf6d55be0770650526",
+        "android_client_info": {
+          "package_name": "com.instadating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446216659923-66cok4tttm4d2vmjn2u3csvh9jbj68pv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instadating",
+            "certificate_hash": "8de5235d83fabfa8751888cddedf68234672dfd0"
+          }
+        },
+        {
+          "client_id": "446216659923-g65964bo48h2jne6uv5ul1k62babt9fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMaicQAtfYQKRkccGpHzUazaUHGiZ8WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446216659923-g65964bo48h2jne6uv5ul1k62babt9fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
